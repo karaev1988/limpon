@@ -1,0 +1,171 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    line-height: 26px;
+    color: #7581a1;
+}
+a{
+    text-decoration: none;
+}
+h1 {
+    font-size: 80px;
+    font-weight: 600;
+    color: #192b59;
+}
+.nav{
+    font-size: 12px;
+    font-weight: 700;
+    color: #6e7ea9;
+    text-transform: uppercase;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.btn-primary{
+    color: #fff;
+    font-size: 11px;
+    letter-spacing: 0.8px;
+    font-weight: 700 ;
+    text-transform: uppercase;
+    background-color: #1085e4;
+    border: 1px solid #1085e4;
+    padding: 15px 32px;
+    border-radius: 30px;
+}
+.btn-primary:hover{
+    color: #1085e4;
+    background-color: #fff;
+}
+.btn-secondary{
+    color: #7e8bae;
+    font-size: 11px;
+    letter-spacing: 0.8px;
+    font-weight: 700 ;
+    text-transform: uppercase;
+    background-color: #cbdbe8;
+    border: 1px solid #cbdbe8;
+    padding: 15px 31px;
+    border-radius: 30px;
+}
+.btn-secondary:hover{
+    background-color: #fff;
+}
+.btn-free{
+    letter-spacing: 0.5px;
+    font-weight: 400;
+    padding: 15px 44px;
+}
+.btn-group a + a{
+    margin-left: 11px;
+}
+.grid h2{
+    font-size: 40px;
+    color: #192b59;
+    font-weight: 700;
+}
+.grid h2 span{
+    font-size: 14px;
+    color: #1085e4;
+    font-weight: 800;
+    display: block;
+}
+.grid-item h3{
+    font-size: 20px;
+    color: #192b59;
+    font-weight: 600;
+}
+.grid-item a{
+    font-size: 14px;
+    color: #1085e4;
+    font-weight: 600;
+}
+.page-subsribe h2{
+    font-size: 50px;
+    color: #fff;
+    font-weight: 600;
+}
+.page-subsribe h2 span{
+    font-size: 14px;
+    color: #00bffe;
+    display: block;
+}
+
+.page-subsribe h2 {
+    font-size: 50px;
+    color: #192b59;
+    font-weight: 600;
+}
+.page-softwere h2{
+    font-size: 50px;
+    color: #192b59;
+    font-weight: 600;
+}
+.page-softwere p{
+    font-size: 16px;
+    color: #7581a1;
+    font-weight: 400;
+}
+.page-softwere dt{
+    font-size: 16px;
+    color: #5a6789;
+    font-weight: 700;
+}
+.page-softwere dd{
+    font-size: 14px;
+    color: #7581a1;
+    font-weight: 400;
+}
+.page-stat h2 span {
+    font-size: 16px;
+    color: #1085e4;
+    font-weight: 800;
+    display: block;
+}
+.page-stat h2{
+    font-size: 50px;
+    color: #192b59;
+    font-weight: 600;
+}
+.page-stat li span{
+    font-size: 60px;
+    color: #bacbdc;
+    font-weight: 700;
+}
+.page-stat li{
+    font-size: 12px;
+    color: #1085e4;
+    font-weight: 700;
+}
+.page-app h2{
+    font-size: 50px;
+    color: #192b59;
+    font-weight: 600;
+}
+.lorem{
+    font-size: 16px;
+    color: #7581a1;
+    font-weight: 400;
+}
+.available-now {
+    font-size: 16px;
+    color: #c4d2dd;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.page-analytics h2{
+    font-size: 50px;
+    color: #192b59;
+    font-weight: 600;
+}
+.page-analytics p{
+    font-size: 16px;
+    color: #7581a1;
+    font-weight: 400;
+}
+.get-started-now{
+    font-size: 12px;
+    color: #fff;
+    font-weight: 700;
+    background-color: #1085e4;
+    text-transform: uppercase;
+}
